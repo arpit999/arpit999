@@ -25,3 +25,17 @@
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit999&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-patel" /> </p>
+<img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+
+✔ Pronouns: ***He/His*** or ***TeamPlayer***😉 <br>
+✔ I’m currently Working on <a href="https://play.google.com/store/apps/details?id=ca.manulife.MobileBanking&hl=en_CA&gl=US">**Bank App**</a> <br>
+✔ I’m currently learning **Jetpack Compose** & **CI-CD**<br>
+✔ I’m looking for help on learning **ML Mobile**<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+ 
